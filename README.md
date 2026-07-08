@@ -5,3 +5,6 @@
 
 07 july, 2025 (union,struct)
 [https://www.edaplayground.com/x/8Qeh](https://www.edaplayground.com/x/8Qeh)
+
+08,july, 2026
+https://www.edaplayground.com/x/g2sC
