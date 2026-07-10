@@ -13,4 +13,4 @@
 [https://www.edaplayground.com/x/g2sC](https://www.edaplayground.com/x/g2sC)
 
 10 july, 2026
-[https://www.edaplayground.com/x/JMdF](https://www.edaplayground.com/x/JMdF)
+https://www.edaplayground.com/x/JMdF
