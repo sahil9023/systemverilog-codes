@@ -17,3 +17,6 @@ https://www.edaplayground.com/x/JMdF
 
 15 july, 2026
 https://www.edaplayground.com/x/TJ5r
+
+17 july, 2026 (array locator methods)
+https://www.edaplayground.com/x/MLuW
