@@ -22,4 +22,4 @@ https://www.edaplayground.com/x/TJ5r
 https://www.edaplayground.com/x/MLuW
 
 20 july, 2026
-https://www.edaplayground.com/x/cHa8
+https://www.edaplayground.com/x/cHa8  -->> class chapter use of new constructor,queue with queue
