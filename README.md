@@ -23,3 +23,5 @@ https://www.edaplayground.com/x/MLuW
 
 20 july, 2026
 https://www.edaplayground.com/x/cHa8  -->> class chapter use of new constructor,queue with queue
+21 july, 2026
+https://www.edaplayground.com/x/JqE3   -->  
