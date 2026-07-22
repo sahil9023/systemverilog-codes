@@ -23,5 +23,15 @@ https://www.edaplayground.com/x/MLuW
 
 20 july, 2026
 https://www.edaplayground.com/x/cHa8  -->> class chapter use of new constructor,queue with queue
+
 21 july, 2026
 https://www.edaplayground.com/x/JqE3   -->  
+
+22 july, 2026
+https://www.edaplayground.com/x/6RYL  --> left shift operator, right shift operator(signed and unsigned values)
+inc. operator, dec operator(i++,--i)
+wildcard operator( ==?, !=?)
+conditional operator(matches, &&&)
+concatination operator with stream operator from right to left, left to right
+
+
