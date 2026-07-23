@@ -29,6 +29,12 @@ https://www.edaplayground.com/x/JqE3   -->
 
 22 july, 2026
 https://www.edaplayground.com/x/6RYL  --> left shift operator, right shift operator(signed and unsigned values)
+23 july, 2026
+https://www.edaplayground.com/x/HTez
+-use of interface over multiple modules
+-use of modports in interface 
+-connecting port bundle to generic interface
+- usind handshaking mechanism
 inc. operator, dec operator(i++,--i)
 wildcard operator( ==?, !=?)
 conditional operator(matches, &&&)
