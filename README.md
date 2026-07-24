@@ -40,4 +40,10 @@ wildcard operator( ==?, !=?)
 conditional operator(matches, &&&)
 concatination operator with stream operator from right to left, left to right
 
+24 july, 2026
+https://www.edaplayground.com/x/Vuqn
+- using modport as a experession in interface and passing in top module
+- implementing interface class using base and derived class
+- verify adder and multiplier in two module using interface
+
 
