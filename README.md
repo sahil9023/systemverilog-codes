@@ -34,7 +34,7 @@ https://www.edaplayground.com/x/HTez
 -use of interface over multiple modules
 -use of modports in interface 
 -connecting port bundle to generic interface
-- usind handshaking mechanism
+- using handshaking mechanism
 inc. operator, dec operator(i++,--i)
 wildcard operator( ==?, !=?)
 conditional operator(matches, &&&)
@@ -46,6 +46,12 @@ https://www.edaplayground.com/x/Vuqn
 - implementing interface class using base and derived class
 - verify adder and multiplier in two module using interface
 
+27 july, 2026
+https://www.edaplayground.com/x/LaHY-->- import and export usinf task/function in interface
+- one module beahve as a mux and adder with the help of compilier directive
+- `include, `ifdef,`elsif, `else, `endif
+- `define macro for getting maximum value
+- 
 28 july, 2025
 https://www.edaplayground.com/x/RYB7-->import and export in interface,compiler directive,nested stream operator
 
