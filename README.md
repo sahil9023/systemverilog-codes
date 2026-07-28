@@ -46,4 +46,7 @@ https://www.edaplayground.com/x/Vuqn
 - implementing interface class using base and derived class
 - verify adder and multiplier in two module using interface
 
+28 july, 2025
+https://www.edaplayground.com/x/RYB7-->import and export in interface,compiler directive,nested stream operator
+
 
