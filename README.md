@@ -47,7 +47,7 @@ https://www.edaplayground.com/x/Vuqn
 - verify adder and multiplier in two module using interface
 
 27 july, 2026
-https://www.edaplayground.com/x/LaHY-->- import and export usinf task/function in interface
+https://www.edaplayground.com/x/LaHY -->- import and export usinf task/function in interface
 - one module beahve as a mux and adder with the help of compilier directive
 - `include, `ifdef,`elsif, `else, `endif
 - `define macro for getting maximum value
