@@ -52,7 +52,14 @@ https://www.edaplayground.com/x/LaHY -->- import and export usinf task/function 
 - `include, `ifdef,`elsif, `else, `endif
 - `define macro for getting maximum value
 - 
-28 july, 2025
+28 july, 2026
 https://www.edaplayground.com/x/RYB7   -->import and export in interface,compiler directive,nested stream operator
 
+29 july, 2026 
+ https://www.edaplayground.com/x/pRKq
+ 
+- logial shift operator, arithmetic shift oprerator
+- modulus operator, divide operator
+- package - import and export
+- AXI protocol => signal specification, channel dependencies
 
