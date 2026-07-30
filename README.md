@@ -15,7 +15,7 @@
 10 july, 2026 (2D array ex)
 https://www.edaplayground.com/x/JMdF
 
-15 july, 2026
+15 july, 2026 (use of base_agent and my_agent with the use of parametrized class)
 https://www.edaplayground.com/x/TJ5r
 
 17 july, 2026 (array locator methods)
