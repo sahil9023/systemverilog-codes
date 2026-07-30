@@ -29,6 +29,7 @@ https://www.edaplayground.com/x/JqE3   -->
 
 22 july, 2026
 https://www.edaplayground.com/x/6RYL  --> left shift operator, right shift operator(signed and unsigned values)
+
 23 july, 2026
 https://www.edaplayground.com/x/HTez
 -use of interface over multiple modules
