@@ -12,7 +12,7 @@
 09 july, 2026(multi demensional arrays)
 [https://www.edaplayground.com/x/g2sC](https://www.edaplayground.com/x/g2sC)
 
-10 july, 2026
+10 july, 2026 (2D array ex)
 https://www.edaplayground.com/x/JMdF
 
 15 july, 2026
