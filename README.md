@@ -25,7 +25,10 @@ https://www.edaplayground.com/x/MLuW
 https://www.edaplayground.com/x/cHa8  -->> class chapter use of new constructor,queue with queue
 
 21 july, 2026
-https://www.edaplayground.com/x/JqE3   -->  
+https://www.edaplayground.com/x/JqE3   -->  uniary operator,bitwise operator,logical operator
+big endianess,lil endianess
+stream operator
+abstract class using multiple child
 
 22 july, 2026
 https://www.edaplayground.com/x/6RYL  --> left shift operator, right shift operator(signed and unsigned values)
