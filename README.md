@@ -68,3 +68,5 @@ https://www.edaplayground.com/x/RYB7   -->import and export in interface,compile
 - package - import and export
 - AXI protocol => signal specification, channel dependencies
 
+4 aug, 2026
+https://edaplayground.com/x/bCsk --> all problems on fork join
