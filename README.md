@@ -70,3 +70,10 @@ https://www.edaplayground.com/x/RYB7   -->import and export in interface,compile
 
 4 aug, 2026
 https://edaplayground.com/x/bCsk --> all problems on fork join
+
+5 Aug, 2026
+https://edaplayground.com/x/Pzuh  -->- use of automatic function inside module
+- use of static and automatic function inside class
+- using class as a return type and argument
+- recursive function
+- -function call inside fork join_none multiple times
