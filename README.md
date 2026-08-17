@@ -77,3 +77,6 @@ https://edaplayground.com/x/Pzuh  -->- use of automatic function inside module
 - using class as a return type and argument
 - recursive function
 - -function call inside fork join_none multiple times
+
+  17 aug, 2026
+https://edaplayground.com/x/j7wH --> constraints question
