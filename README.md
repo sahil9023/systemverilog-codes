@@ -80,3 +80,10 @@ https://edaplayground.com/x/Pzuh  -->- use of automatic function inside module
 
   17 aug, 2026
 https://edaplayground.com/x/j7wH --> constraints question
+
+18 aug, 2026
+  https://edaplayground.com/x/NEiB
+- write constraint 101010101010 by randomizing single bit
+- write constraint to generate 1 2 2 3 3 3 4 4 4 4
+- write constraint to to get  highest multiple of 2 after 10
+- write constraint to generate 10 1100 111000
