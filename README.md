@@ -82,6 +82,13 @@ https://edaplayground.com/x/Pzuh  -->- use of automatic function inside module
 https://edaplayground.com/x/j7wH --> constraints question
 
 18 aug, 2026
+https://edaplayground.com/x/FzvU
+-randc behaviour without using randc
+-AXI channel dependencies constraint
+-dist keyword
+-11 00 11 00 11 00 11
+
+18 aug, 2026
   https://edaplayground.com/x/NEiB
 - write constraint 101010101010 by randomizing single bit
 - write constraint to generate 1 2 2 3 3 3 4 4 4 4
