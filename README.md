@@ -94,3 +94,24 @@ https://edaplayground.com/x/FzvU
 - write constraint to generate 1 2 2 3 3 3 4 4 4 4
 - write constraint to to get  highest multiple of 2 after 10
 - write constraint to generate 10 1100 111000
+- 
+19 aug, 2026 -> https://edaplayground.com/x/FzvU
+  
+  -randc behaviour without using randc
+-AXI channel dependencies constraint
+-dist keyword
+-11 00 11 00 11 00 11
+  
+20 aug, 2026 --> https://edaplayground.com/x/8CpS
+// write constraint numbers are divisible by 5
+// pattern 122122122122
+// 4bit variab;e where after 6th bit bits should be diffrent
+// sum of 3  consecutive lement should be even
+//write constraint  for two random varibales such that 1 variable does not match the 2nd variable , 5 bits are toggled with respect another
+//write constraint for variable such that number of one's depend on value of another variables
+
+  21 aug , 2026
+  https://edaplayground.com/x/W2ti
+  - next element value should be multiple of 0th element
+- soft constraint on single class
+- soft constraint on parent and child class
