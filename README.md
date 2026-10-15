@@ -7,6 +7,11 @@
 [https://www.edaplayground.com/x/wWYB](https://www.edaplayground.com/x/wWYB)
 
 07 july, 2026 (union,struct)
+- packed and unpacked union
+- packed and unpacked struct
+- union inside union,another union inside the union
+- struct inside the union,inside struct again union
+- 4 level of inheritance of union,struct 
 [https://www.edaplayground.com/x/8Qeh](https://www.edaplayground.com/x/8Qeh)
 
 08,july, 2026 (Dynamic arrays)
