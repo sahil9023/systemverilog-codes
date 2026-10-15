@@ -1,7 +1,9 @@
 # systemverilog-codes
 
 06 july, 2026
-
+- signed and unsigned data types
+- assigning value from one data type to another
+- firk join_any example
 [https://www.edaplayground.com/x/wWYB](https://www.edaplayground.com/x/wWYB)
 
 07 july, 2026 (union,struct)
