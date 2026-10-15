@@ -97,7 +97,7 @@ https://edaplayground.com/x/FzvU
 - 
 19 aug, 2026 -> https://edaplayground.com/x/FzvU
   
-  -randc behaviour without using randc
+-randc behaviour without using randc
 -AXI channel dependencies constraint
 -dist keyword
 -11 00 11 00 11 00 11
