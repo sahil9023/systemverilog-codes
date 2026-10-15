@@ -15,6 +15,9 @@
 [https://www.edaplayground.com/x/8Qeh](https://www.edaplayground.com/x/8Qeh)
 
 08,july, 2026 (Dynamic arrays)
+- there is 100  element reverse the valiue of whole array
+- there is 100 element, reverse each next 5 element
+-  associative array
 [https://www.edaplayground.com/x/g2sC](https://www.edaplayground.com/x/g2sC)
 
 09 july, 2026(multi demensional arrays)
